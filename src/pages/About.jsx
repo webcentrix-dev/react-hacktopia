@@ -21,7 +21,7 @@ const About = () => {
       <Meta title={PageTitle1} />
       <Header head={PageTitle1} description={Description1} />
       <Container className="aline-content-center">
-        <Image className="py-3  " src={College} rounded />
+        <Image className="py-3 " src={College} rounded />
       </Container>
       <Header head={PageTitle2} description={Description2} />
 
