@@ -8,3 +8,12 @@ body {
 main {
   min-height: 80vh;
 }
+#logo{
+  
+  width: 25%;
+}
+#coll-img{
+  
+  align-items: center;
+}
+
